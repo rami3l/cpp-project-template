@@ -54,7 +54,7 @@ endif()
 
 # ========== Target Configurations ================#
 
-add_executable(${PROJECT_NAME} main.cpp)
+add_executable(${PROJECT_NAME} ./src/main.cpp)
 # copy_after_build(${PROJECT_NAME})
 
 add_custom_target(
