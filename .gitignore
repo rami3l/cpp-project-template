@@ -137,7 +137,8 @@ install_manifest.txt
 #----- Visua Studio Code Editor ----------------#
 
 # Visual Studio Code config
-.vscode/* 
+# .vscode/* 
+.vscode/c_cpp_properties.json 
 
 #------ Visual Studio IDE ------------------------#
 
