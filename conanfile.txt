@@ -1,0 +1,9 @@
+[generators]
+cmake
+
+[requires]
+CLI11/1.8.0@cliutils/stable
+
+[options]
+
+[imports]
